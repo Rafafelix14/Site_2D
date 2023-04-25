@@ -3,8 +3,8 @@ body{
     padding: 0;
 }
 .cabecalho {
-    background-color: #fd3946;
-    color: rgb(6, 6, 6);
+    background-color: #5e42fd;
+    color: rgba(6, 6, 6, 0.842);
     display: flex;
    justify-content: space-around;
    padding: 24px 0;
