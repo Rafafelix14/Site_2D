@@ -3,8 +3,8 @@ body{
     padding: 0;
 }
 .cabecalho {
-    background-color: #5e42fd;
-    color: rgba(6, 6, 6, 0.842);
+    background-color: #5134f5;
+    color: rgb(6, 6, 6);
     display: flex;
    justify-content: space-around;
    padding: 24px 0;
@@ -18,8 +18,8 @@ body{
     width: 25%;
 }
 .escola{
-    background-image: linear-gradient(#2982bd,#743bcf);
-    color: rgb(40, 231, 199);
+    background-image: linear-gradient(#5134f5,#5abee6);
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -27,7 +27,7 @@ body{
 }
 .escola-div-conteudo{
     width: 35%;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbrzNIf7Ry9B5lm0Ss0lIARTsunpDof2JEkg&usqp=CAU);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVuaJlsLWN9geuM1Imu_nSbvQten6gmRpNQ&usqp=CAU);
 }
 .escola-titulo{
     padding: 24px 0;
